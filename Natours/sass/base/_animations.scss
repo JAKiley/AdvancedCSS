@@ -1,0 +1,59 @@
+@keyframes moveInLeft {
+    0% {
+      opacity: 0;
+      transform: translate(-10rem);
+    }
+  
+    80% {
+      transform: translate(1rem);
+    }
+  
+    100% {
+      opacity: 1;
+      transform: translate(0);
+    }
+  }
+  
+  @keyframes moveInRight {
+    0% {
+      opacity: 0;
+      transform: translate(100%);
+    }
+  
+    80% {
+      transform: translate(-1rem);
+    }
+  
+    100% {
+      opacity: 1;
+      transform: translate(0);
+    }
+  }
+  
+  @keyframes rotateLogo {
+    0% {
+      opacity: 0;
+      transform: translate(100%) rotate(0deg);
+    }
+  
+    80% {
+      transform: translate(-1rem) rotate(180deg);
+    }
+  
+    100% {
+      opacity: 1;
+      transform: translate(0) rotate(1800deg);
+    }
+  }
+  
+  @keyframes moveInButton {
+    0% {
+      opacity: 0;
+      transform: translateY(3rem);
+    }
+  
+    100% {
+      opacity: 1;
+      transform: translate(0);
+    }
+  }
