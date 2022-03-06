@@ -1,14 +1,19 @@
+Jonas Web page of resources https://codingheroes.io/resources/
+
+jonas uses BEM (Block Element Modifier) nameing for classes http://getbem.com/
+
+
 Live Server
-    Start terminal
+    Start gtibash terminal in VS Code
     get into directory
     live-Server
 
 Auto Recompile of Scss
-    Start terminal
+    Start gitbatch terminal in VS Code
     get into directory
     npm run compile:sass
 
-sass folder uses 7-1 Css
+Sass folder uses 7-1 Css
     folders
         abstracts
             variables

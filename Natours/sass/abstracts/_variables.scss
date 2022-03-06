@@ -3,11 +3,29 @@ $color-primary: #1cf564;
 $color-primary-light: #3ed623;
 $color-primary-dark: #14f3a9;
 
+$color-secondary-light: #ffb900;
+$color-secondary-dark: #ff7730;
+
+$color-tertiary-light: #2998ff;
+$color-tertiary-dark: #5643fa;
+
+$color-grey-light-1: #f7f7f7;
+
 $color-grey-dark: #777;
 $color-white: #fff;
 $color-black: #000;
 
+// shadows
+$shadow-photo: 0 1.5rem 4rem rgba($color-black, .4);
+$shadow-photo-hover: 0 2.5rem 4rem rgba($color-black, .5);
+$shadow-box: 0 1.5rem 4rem rgba($color-black, .2);
+$shadow-button-hover: 0 1rem 2rem rgba($color-black,.2);
+$shadow-button-active: 0 0.5rem 1rem rgba($color-black, 0.2);
+
+// font
+$default-font-size: 1.6rem;
+
 // Grid Variables
 $grid-width: 114rem;
 $gutter-veritcal: 8rem;
-$gutter-horizontal: 2rem;
+$gutter-horizontal: 6rem;
