@@ -4,9 +4,11 @@ jonas uses BEM (Block Element Modifier) nameing for classes http://getbem.com/
 
 
 Live Server
-    Start gtibash terminal in VS Code
+    Start gtibash terminal in VS Code or can start in Gitbash
     get into directory
     live-Server
+---- add instructions on how to install live-server for other Jonas projects
+
 
 Auto Recompile of Scss
     Start gitbatch terminal in VS Code
@@ -27,3 +29,5 @@ Sass folder uses 7-1 Css
         pages
         themes
         vendors - third parties like bootstrap
+
+easing.net - transitions for -bezier
