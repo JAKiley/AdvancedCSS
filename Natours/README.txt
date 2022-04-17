@@ -16,16 +16,19 @@ Auto Recompile of Scss
     npm run compile:sass
 
 Sass folder uses 7-1 Css
+    main.scss pulls all the scss together - compiled is stylesheet.css
     folders
         abstracts
-            variables
+            variables - colors standard one line reusables
+            mixiims - reusable multi line code
         base
             animations
             base - html, body (excluding typography)
             typography - headings 
+            utiliies - common classes (in HTML)
         components - Butons etc
         layout
-            header
+            header, footers, nav etc
         pages
         themes
         vendors - third parties like bootstrap
